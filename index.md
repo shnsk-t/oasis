@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to QAOASIS Pages
 
 You can use the [editor on GitHub](https://github.com/shnsk-t/oasis/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
